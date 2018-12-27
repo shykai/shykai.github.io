@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on shykai&#39;s workstation</title>
+		<link>http://shykai.github.io/posts/</link>
+		<description>Recent content in Posts on shykai&#39;s workstation</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-cn</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Thu, 27 Dec 2018 13:03:00 +0800</lastBuildDate>
+		<atom:link href="http://shykai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Post Title</title>
+			<link>http://shykai.github.io/posts/post-title/</link>
+			<pubDate>Thu, 27 Dec 2018 13:03:00 +0800</pubDate>
+			
+			<guid>http://shykai.github.io/posts/post-title/</guid>
+			<description>这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是五级标题 这是六级标题 这是加粗的文字 这是倾斜的文字` 这是斜体加粗的文字 这是加删除线的文字 这</description>
+			<content type="html"><![CDATA[
+
+<h1 id="这是一级标题">这是一级标题</h1>
+
+<h2 id="这是二级标题">这是二级标题</h2>
+
+<h3 id="这是三级标题">这是三级标题</h3>
+
+<h4 id="这是四级标题">这是四级标题</h4>
+
+<h5 id="这是五级标题">这是五级标题</h5>
+
+<h6 id="这是六级标题">这是六级标题</h6>
+
+<p><strong>这是加粗的文字</strong>
+<em>这是倾斜的文字</em>`
+<strong><em>这是斜体加粗的文字</em></strong>
+<del>这是加删除线的文字</del></p>
+
+<blockquote>
+<p>这是引用的内容
+&gt;这是引用的内容
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;这是引用的内容</p>
+</blockquote>
+
+<hr />
+
+<hr />
+
+<hr />
+
+<hr />
+
+<p><img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
+u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg" alt="blockchain" title="区块链" /></p>
+
+<p><a href="http://jianshu.com" target="_blank">简书</a>
+<a href="http://baidu.com" target="_blank">百度</a></p>
+
+<ul>
+<li>列表内容</li>
+<li>列表内容</li>
+<li>列表内容</li>
+</ul>
+
+<p>注意：- + * 跟内容之间都要有一个空格</p>
+
+<ol>
+<li>列表内容</li>
+<li>列表内容</li>
+<li>列表内容</li>
+</ol>
+
+<p>注意：序号跟内容之间要有空格</p>
+
+<table>
+<thead>
+<tr>
+<th>表头</th>
+<th align="center">表头</th>
+<th align="right">表头</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>内容</td>
+<td align="center">内容</td>
+<td align="right">内容</td>
+</tr>
+
+<tr>
+<td>内容</td>
+<td align="center">内容</td>
+<td align="right">内容</td>
+</tr>
+</tbody>
+</table>
+
+<p>第二行分割表头和内容。
+- 有一个就行，为了对齐，多加了几个
+文字默认居左
+- 两边加：表示文字居中
+- 右边加：表示文字居右
+注：原生的语法两边都要用 | 包起来。此处省略</p>
+
+<pre><code>  代码...
+  代码...
+  代码...
+</code></pre>
+
+<p><code>create database hero;</code></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
