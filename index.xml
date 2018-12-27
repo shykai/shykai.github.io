@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 27 Dec 2018 13:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 19:53:38 +0800</lastBuildDate>
     
 	<atom:link href="http://shykai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2018年末总结</title>
+      <link>http://shykai.github.io/posts/2018%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Thu, 27 Dec 2018 19:53:38 +0800</pubDate>
+      
+      <guid>http://shykai.github.io/posts/2018%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/</guid>
+      <description>前言 2018这年做了很多事儿也经历了很多事儿，慢慢思索慢慢总结。 生活 从前三季度一直想忙碌的工作中，忙里偷闲还是和老婆出去玩了几趟。 老婆说我是</description>
+    </item>
     
     <item>
       <title>Markdown用例测试</title>
