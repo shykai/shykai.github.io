@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试 on shykai&#39;s workstation</title>
+    <link>http://shykai.github.io/tags/%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 测试 on shykai&#39;s workstation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 27 Dec 2018 13:03:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://shykai.github.io/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown用例测试</title>
+      <link>http://shykai.github.io/posts/markdown%E7%94%A8%E4%BE%8B%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Thu, 27 Dec 2018 13:03:00 +0800</pubDate>
+      
+      <guid>http://shykai.github.io/posts/markdown%E7%94%A8%E4%BE%8B%E6%B5%8B%E8%AF%95/</guid>
+      <description>这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是五级标题 这是六级标题 这是加粗的文字 这是倾斜的文字` 这是斜体加粗的文字 这是加删除线的文字 这</description>
+    </item>
+    
+  </channel>
+</rss>
